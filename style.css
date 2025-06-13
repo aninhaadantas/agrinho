@@ -1,0 +1,19 @@
+*{ margin: 30px;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    border-radius: 50px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    margin-top: 60px;
+    border-radius: 40px;
+    border: solid black 2px;
+}
+.jut{
+    width: 150px;
+}
